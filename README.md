@@ -49,7 +49,7 @@ JaiRaj Tech is a digital services brand from Andhra Pradesh. We help businesses 
 
 ## 🛠️ Tech Stack
 - HTML5, CSS3, JavaScript (Vanilla)
-- No frameworks - Fast loading
+- Fast loading
 - Hosted on GitHub Pages
 
 ## How to Use
