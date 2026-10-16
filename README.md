@@ -42,8 +42,8 @@ JaiRaj Tech is a digital services brand from Andhra Pradesh. We help businesses 
 ## 📞 Contact
 - **Name:** Jai Raj
 - **Phone / WhatsApp:** +91 95057 15414
-- **Email:** jairajtech14@gmail.com
-- **Location:** Nandikotkur, AP
+- **Email:** jairajtech5414@gmail.com
+- **Location:** Kurnool, AP
 
 > Click on WhatsApp button on website to directly message us.
 
